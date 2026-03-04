@@ -218,7 +218,5 @@ This project structures backend and frontend clearly and includes AI-ready integ
 
 ---
 
-If you want, I can also generate a **badge header** (stars, workflow, license) or a short **project summary card** for the repo.
-
 [1]: https://github.com/Gagan921/tradejournal-ai/blob/main/backend "tradejournal-ai/backend at main · Gagan921/tradejournal-ai · GitHub"
 [2]: https://github.com/Gagan921/tradejournal-ai/blob/main/frontend "tradejournal-ai/frontend at main · Gagan921/tradejournal-ai · GitHub"
